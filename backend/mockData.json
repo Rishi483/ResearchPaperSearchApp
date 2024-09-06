@@ -1,0 +1,11 @@
+[
+    { "title": "Deep Learning Approaches for Natural Language Processing", "authors": "John Doe, Jane Smith", "year": 2018, "citations": 1243 },
+    { "title": "Advances in Reinforcement Learning for Autonomous Driving", "authors": "Michael Zhang, Emily Davis", "year": 2021, "citations": 324 },
+    { "title": "A Comprehensive Survey on Graph Neural Networks", "authors": "David Wilson, Susan Lee", "year": 2019, "citations": 983 },
+    { "title": "The Impact of 5G Technology on Internet of Things (IoT)", "authors": "Maria Garcia, Ahmed Khan", "year": 2022, "citations": 156 },
+    { "title": "Explainable AI: Methods, Applications, and Challenges", "authors": "Chloe Kim, Daniel Martinez", "year": 2023, "citations": 89 },
+    { "title": "Blockchain Technology: Decentralized Networks and Applications", "authors": "Kevin White, Olivia Taylor", "year": 2021, "citations": 432 },
+    { "title": "Image Recognition and Classification using Convolutional Neural Networks", "authors": "Henry Patel, Laura Evans", "year": 2017, "citations": 1743 },
+    { "title": "Neural Architecture Search: A Survey and Open Problems", "authors": "Sophia Moore, Ethan Walker", "year": 2019, "citations": 542 },
+    { "title": "Cybersecurity in Smart Grids: Challenges and Solutions", "authors": "Isabella Scott, Jacob Thompson", "year": 2020, "citations": 268 }
+]
